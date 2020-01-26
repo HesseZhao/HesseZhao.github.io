@@ -1,5 +1,14 @@
-## Welcome to an introduction
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/HesseZhao/HesseZhao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ 200x-201x xx小学
+- 201x-201x xx初中
++ 201x-201x xx高中
+- 201x-202x xx大学 xx专业
+
+### 开发经历
+
+小白，学过C++和LaTeX，刚接触GitHub。
+
+### 给大家拜年了
